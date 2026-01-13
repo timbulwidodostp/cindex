@@ -1,6 +1,8 @@
 # cindex
 Calculate Harrell's c-index Use cindex (dynpred) With (In) R Software
 
+https://www.youtube.com/watch?v=18-noSG3SZ0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
